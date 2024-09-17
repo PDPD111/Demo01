@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Createcompany2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d5b66ad3-3543-4029-99d2-7d2278569b81</testSuiteGuid>
+   <testCaseLink>
+      <guid>325ed006-19d1-4581-b6b5-64e27c155411</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo02/TC03 M/TC17</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8bda6c88-a1bf-4067-a68a-d231f86ce4c4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Demo1/DataManual</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8bda6c88-a1bf-4067-a68a-d231f86ce4c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>compname2</value>
+         <variableId>20aca9a3-c372-46bf-8e93-f664b9ca82fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8bda6c88-a1bf-4067-a68a-d231f86ce4c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>introdate2</value>
+         <variableId>7b3ba57b-f669-4b57-bf32-805ca9caaee0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8bda6c88-a1bf-4067-a68a-d231f86ce4c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>disdate2</value>
+         <variableId>07956202-4a4d-40f5-9d49-66e641c2512b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8bda6c88-a1bf-4067-a68a-d231f86ce4c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>chosecompany2</value>
+         <variableId>90cca81a-0b5b-4941-bbbc-40d554fe5e05</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

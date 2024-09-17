@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Training01</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>4e0801a9-b25d-4a28-b6df-583083ccef3f</testSuiteGuid>
+   <testCaseLink>
+      <guid>f7239429-6190-4b1f-8e38-4133ac851524</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo02/TC03 M/TC15</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c189a288-9435-4d80-9b83-db80290124fe</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Demo1/Healthcaretestdata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c189a288-9435-4d80-9b83-db80290124fe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>user1</value>
+         <variableId>30687daf-4570-4f68-9567-61c0510f73d6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c189a288-9435-4d80-9b83-db80290124fe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass1</value>
+         <variableId>fd8e2ae7-660c-44e6-8c00-43bb07bd5646</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0383f03e-ae80-41d1-92b5-a934832a2922</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c189a288-9435-4d80-9b83-db80290124fe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comm1</value>
+         <variableId>940ad2c5-5896-4e07-893c-c2712ceda583</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c189a288-9435-4d80-9b83-db80290124fe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date1</value>
+         <variableId>910572e9-ae5b-4690-a254-62327faf1552</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

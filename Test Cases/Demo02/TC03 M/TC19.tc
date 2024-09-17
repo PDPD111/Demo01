@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>afefb572-b6f6-4c66-ae28-e8ce95c9ca22</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea984c5b-fa97-4a84-ae25-2895edb6b92c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21ec9782-b6e3-4ab9-ae91-bdbc2bde9165</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef8f9697-e47d-4c64-b056-dffb503426a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d87047f-e3ba-4dc6-928d-869f10774940</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69eddb8b-258b-4ec7-8829-c41d5983fe85</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>ea984c5b-fa97-4a84-ae25-2895edb6b92c</id>
+      <masked>false</masked>
+      <name>user1</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>21ec9782-b6e3-4ab9-ae91-bdbc2bde9165</id>
+      <masked>false</masked>
+      <name>pass1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Centre'</defaultValue>
+      <description></description>
+      <id>ef8f9697-e47d-4c64-b056-dffb503426a5</id>
+      <masked>false</masked>
+      <name>Facility1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Thank uuuu\r\n'</defaultValue>
+      <description></description>
+      <id>6d87047f-e3ba-4dc6-928d-869f10774940</id>
+      <masked>false</masked>
+      <name>Comm1</name>
+   </variable>
+   <variable>
+      <defaultValue>'09/10/2024\r\n'</defaultValue>
+      <description></description>
+      <id>69eddb8b-258b-4ec7-8829-c41d5983fe85</id>
+      <masked>false</masked>
+      <name>date1</name>
+   </variable>
+</TestCaseEntity>
